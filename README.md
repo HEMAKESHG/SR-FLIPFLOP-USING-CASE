@@ -76,5 +76,6 @@ endmodule
 ![Screenshot 2024-11-06 105054](https://github.com/user-attachments/assets/51154085-0720-4334-97ba-d12de325859c)
 
 
-**RESULTS**
+**RESULTS:**
+
 The observation of the simulation results and confirm the successfull execution of the program.
